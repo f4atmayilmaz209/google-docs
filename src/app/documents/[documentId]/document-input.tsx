@@ -8,7 +8,7 @@ import { toast } from "sonner";
 import { useStatus } from "@liveblocks/react";
 import { LoaderIcon } from "lucide-react";
 
- 
+  
 interface DocumentInputProps{
     title:string;
     id:Id<"documents">
