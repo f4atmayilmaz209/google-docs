@@ -543,6 +543,7 @@ export const Toolbar = () => {
     const sections:{
         label:string;
         icon:LucideIcon;
+        isActive?:boolean;
         onClick:()=>void;
 
     }[][]=[
