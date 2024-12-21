@@ -1,0 +1,2 @@
+export const LEFT_MARGIN_DEFAUTL=56;
+export const RIGHT_MARGIN_dEFAULT=56;
