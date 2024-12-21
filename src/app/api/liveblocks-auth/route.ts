@@ -45,7 +45,7 @@ export async function POST(req:Request){
        userInfo:{
         name,
         avatar:user.imageUrl,
-        color:"green"
+        color:color
        } 
     })
     session.allow(room,session.FULL_ACCESS)
